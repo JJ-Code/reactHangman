@@ -19,3 +19,12 @@ footer {
 	text-transform: uppercase;
 
 }
+
+.footer--text a{
+	font-family: sans;
+	font-size: .8em !important;
+	color: #337ab7 !important;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+
+}

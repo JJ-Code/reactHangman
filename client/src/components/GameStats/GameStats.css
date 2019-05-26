@@ -1,0 +1,9 @@
+.lives-score,
+.win-score,
+.loss-score,
+.timer {
+  margin-left: 10px;
+  font-size: 1.2em;
+  color: salmon;
+  text-shadow: 1px 1px black;
+}
