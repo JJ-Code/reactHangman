@@ -1,4 +1,6 @@
 export {
   default
 }
-from "./ABCtiles";
+from "./MakeABCTiles";
+
+
